@@ -47,7 +47,7 @@ streamlit run object_detection.py
 streamlit run chatbot.py
 ```
 
-## [Word Correction](https://chatbot-app-levenshtein.streamlit.app/)
+## [Word Correction](https://word-correction.streamlit.app/)
 
 ### Description
 The Word Correction application takes a user-inputted word and suggests the correct spelling using the Levenshtein distance algorithm. This applications showcases natural language processing capabilities and error correction.
@@ -55,12 +55,12 @@ The Word Correction application takes a user-inputted word and suggests the corr
 ### Usage
 1. Run the application:
 ```bash
-streamlit run levenshtein_distance.py
+streamlit run levenstein_distance.py
 ```
 2. Enter a word in the input box and click "Compute".
 3. The application will display the corrected word and the Levenshtein distances for each word in the vocabulary.
 
-## [Object Detection](https://chatbot-app-objdetect.streamlit.app/)
+## [Object Detection](https://basic-object-detection.streamlit.app/)
 
 ### Description
 The Object Detection application allows users to upload an image, and it will detect and highlight objects within the image using a pre-trained deep neural network model.
@@ -73,7 +73,7 @@ streamlit run object_detection.py
 2. Upload an image file.
 3. The application will display the uploaded image with detected objects highlighted.
 
-## [Chatbot](https://chatbot-app-hugchat.streamlit.app/)
+## [Chatbot](https://chatbot-with-hugchat.streamlit.app/)
 
 ### Description
 The Chatbot application provides an interactive chat interface for users. It uses Hugging Face's HugChat to generate responses based on user input.
