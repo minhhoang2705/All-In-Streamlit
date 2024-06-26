@@ -100,6 +100,6 @@ streamlit run chatbot.py
 
 ### Chatbot
 <p align='center'>
-  <img src='./asset/chatbot.png' height='90%' width='90%'>
+  <img src='./asset/chatbot(2).png' height='90%' width='90%'>
 </p>
    
