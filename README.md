@@ -90,16 +90,16 @@ streamlit run chatbot.py
 
 ### Word Correction
 <p align='center'>
-  <img src='./source/assets/word_correction.png' height='90%' width='90%'>
+  <img src='./asset/word_correction.png' height='90%' width='90%'>
 </p>
 
 ### Object Detection
 <p align='center'>
-  <img src='./source/assets/object_detection.png' height='90%' width='90%'>
+  <img src='./asset/object_detection.png' height='90%' width='90%'>
 </p>
 
 ### Chatbot
 <p align='center'>
-  <img src='./source/assets/chatbot.png' height='90%' width='90%'>
+  <img src='./asset/chatbot.png' height='90%' width='90%'>
 </p>
    
